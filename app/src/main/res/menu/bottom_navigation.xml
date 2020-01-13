@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/popular_id"
+        android:title="Anasayfa"
+        android:icon="@drawable/popular"/>
+    <item
+        android:id="@+id/chat_id"
+        android:title="Sohbet"
+        android:icon="@drawable/chat"/>
+    <item
+        android:id="@+id/post_id"
+        android:title="Gönderiler"
+        android:icon="@drawable/post"/>
+</menu>

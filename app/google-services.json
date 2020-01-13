@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "375256828373",
+    "firebase_url": "https://yardimlasmaplatformumoon.firebaseio.com",
+    "project_id": "yardimlasmaplatformumoon",
+    "storage_bucket": "yardimlasmaplatformumoon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375256828373:android:dcbc6735d917f67132955c",
+        "android_client_info": {
+          "package_name": "com.nazlicankurt.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375256828373-2os6t38t8903d5na1bkkv01578jhhd0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nazlicankurt.login",
+            "certificate_hash": "add72b56e2b6dd718f28447a5bd0af5a11d4845c"
+          }
+        },
+        {
+          "client_id": "375256828373-jlbui6sp9m2b5m0vhnuj3h8liktedg8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9aByKdxK9SiOdyguqec1OKfY2kC4-PgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375256828373-jlbui6sp9m2b5m0vhnuj3h8liktedg8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
